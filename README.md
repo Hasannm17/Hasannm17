@@ -23,7 +23,7 @@
  <img width = "40" height = "40" src ="https://titrias.com/files/2022/04/typescript.png">&nbsp;&nbsp;
    <img width = "40" height = "40" src ="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png">&nbsp;&nbsp;
  <img width = "41" height = "43" src ="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png">&nbsp;&nbsp;
- <img width = "80" height = "40" src ="https://www.svgrepo.com/show/374088/solidity.svg">&nbsp;&nbsp;
+ <img width = "50" height = "40" src ="https://www.svgrepo.com/show/374088/solidity.svg">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/langfr-220px-Ethereum-icon-purple.svg.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">&nbsp;&nbsp;
   <img width = "60" height = "40" src ="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png">&nbsp;&nbsp;
