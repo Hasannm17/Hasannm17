@@ -22,7 +22,7 @@
  <img width = "40" height = "40" src ="https://titrias.com/files/2022/04/typescript.png">&nbsp;&nbsp;
    <img width = "40" height = "40" src ="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png">&nbsp;&nbsp;
  <img width = "41" height = "43" src ="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png">&nbsp;&nbsp;
- <img width = "40" height = "40" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_w2qhGpRqugd9EpKtxNUSor2BX6nC1dWmjZJq154pA&s">&nbsp;&nbsp;
+ <img width = "40" height = "40" src ="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png">&nbsp;&nbsp;
  <img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/langfr-220px-Ethereum-icon-purple.svg.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg">&nbsp;&nbsp;
