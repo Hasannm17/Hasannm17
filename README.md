@@ -17,6 +17,7 @@
 <p float = "left>
  <img width = "40" height = "40" src ="https://titrias.com/files/2022/04/typescript.png">
    <img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">&nbsp;&nbsp;
+   <img width = "70" height = "40" src ="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://static-00.iconduck.com/assets.00/file-type-expo-icon-1807x2048-zlqoaiu7.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://titrias.com/files/2022/04/typescript.png">&nbsp;&nbsp;
    <img width = "40" height = "40" src ="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png">&nbsp;&nbsp;
@@ -24,7 +25,6 @@
  <img width = "40" height = "40" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_w2qhGpRqugd9EpKtxNUSor2BX6nC1dWmjZJq154pA&s">&nbsp;&nbsp;
  <img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/langfr-220px-Ethereum-icon-purple.svg.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">&nbsp;&nbsp;
- <img width = "70" height = "40" src ="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg">&nbsp;&nbsp;
 </p>
  
