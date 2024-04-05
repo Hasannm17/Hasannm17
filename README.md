@@ -15,7 +15,7 @@
 <h3> Languages & Tools: </h3>
 
 <p float = "left>
- <img width = "40" height = "40" src ="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+ <img width = "40" height = "40" src ="[https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftitrias.com%2Fwhy-typescript-is-typescript-frontend-or-backend%2F&psig=AOvVaw1uvXG5nYKVn555L_je9kvq&ust=1712414907382000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCND-iOSoq4UDFQAAAAAdAAAAABAE)">
  <img width = "40" height = "40" src ="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png">&nbsp;&nbsp;
