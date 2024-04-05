@@ -19,7 +19,7 @@
  <img width = "40" height = "40" src ="https://static-00.iconduck.com/assets.00/file-type-expo-icon-1807x2048-zlqoaiu7.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://titrias.com/files/2022/04/typescript.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png">&nbsp;&nbsp;
- <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">&nbsp;&nbsp;
+ <img width = "40" height = "40" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_w2qhGpRqugd9EpKtxNUSor2BX6nC1dWmjZJq154pA&s">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png">&nbsp;&nbsp;
  <img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">&nbsp;&nbsp;
