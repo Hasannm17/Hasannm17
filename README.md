@@ -28,6 +28,7 @@
 <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">&nbsp;&nbsp;
   <img width = "60" height = "40" src ="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png">&nbsp;&nbsp;
   <img width = "40" height = "40" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png">&nbsp;&nbsp;
+  <img width = "40" height = "40" src ="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png">&nbsp;&nbsp;
 
 
 </p>
