@@ -26,7 +26,7 @@
  <img width = "80" height = "40" src ="https://procoders.tech/wp-content/uploads/2022/12/How_to_Find_a_Solidity_Developer_for_Hire_Comprehensive_Guide.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/langfr-220px-Ethereum-icon-purple.svg.png">&nbsp;&nbsp;
  <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src =" https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">&nbsp;&nbsp;
+<img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">&nbsp;&nbsp;
 
 </p>
  
