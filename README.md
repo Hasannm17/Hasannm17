@@ -30,9 +30,8 @@
   <img width = "40" height = "40" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png">&nbsp;&nbsp;
   <img width = "40" height = "40" src ="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png
-">&nbsp;&nbsp;
+<img width = "60" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png">&nbsp;&nbsp;
+<img width = "40" height = "40" src ="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">&nbsp;&nbsp;
 
 </p>
  
