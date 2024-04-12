@@ -4,7 +4,6 @@
 
 - 🌱 Software engineer.
 - 📫 How to reach me: Follow me on Linkedin.
-- ⚡ Fun fact: I appreciate you.
 
 
 <h3> Connect with me: </h3>
