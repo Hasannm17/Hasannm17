@@ -33,6 +33,8 @@
 <img width = "40" height = "40" src ="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png">&nbsp;&nbsp;
+<img width = "40" height = "40" src ="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg">&nbsp;&nbsp;
+<img width = "70" height = "40" src ="https://karanpratapsingh.com/static/blogs/introduction-to-zustand.png">&nbsp;&nbsp;
 
 
 
