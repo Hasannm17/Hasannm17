@@ -32,6 +32,7 @@
 <img width = "60" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png">&nbsp;&nbsp;
+<img width = "40" height = "40" src ="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png">&nbsp;&nbsp;
 
 
 
