@@ -34,7 +34,7 @@
 <img width = "40" height = "40" src ="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg">&nbsp;&nbsp;
-<img width = "100" height = "40" src ="https://karanpratapsingh.com/static/blogs/introduction-to-zustand.png">&nbsp;&nbsp;
+<img width = "50" height = "40" src ="https://karanpratapsingh.com/static/blogs/introduction-to-zustand.png">&nbsp;&nbsp;
 
 
 
