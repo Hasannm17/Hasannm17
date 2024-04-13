@@ -14,6 +14,7 @@
 <h3> Languages & Tools: </h3>
 
 <p float = "left>
+     
   <img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">&nbsp;&nbsp;
    
   <img width = "40" height = "40" src ="https://cdn-icons-png.flaticon.com/512/732/732212.png">&nbsp;&nbsp;
