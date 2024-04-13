@@ -35,7 +35,7 @@
 <img width = "40" height = "40" src ="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png">&nbsp;&nbsp;
 <img width = "40" height = "40" src ="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg">&nbsp;&nbsp;
 <img width = "80" height = "40" src ="https://karanpratapsingh.com/static/blogs/introduction-to-zustand.png">&nbsp;&nbsp;
-
+<img width = "40" height = "40" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfT8q16BHaFWDxw9lRO0DREwOjF4_8HZ6idqnSd6yGg&s">&nbsp;&nbsp;
 
 
 
