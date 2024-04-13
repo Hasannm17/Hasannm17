@@ -14,9 +14,8 @@
 <h3> Languages & Tools: </h3>
 
 <p float = "left>
-     
+       <img width = "40" height = "40" src ="https://cdn-icons-png.flaticon.com/512/732/732212.png">&nbsp;&nbsp;
   <img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">&nbsp;&nbsp;
-   
   <img width = "40" height = "40" src ="https://cdn-icons-png.flaticon.com/512/732/732212.png">&nbsp;&nbsp;
   <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">&nbsp;&nbsp;
    <img width = "40" height = "40" src ="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg">&nbsp;&nbsp;
