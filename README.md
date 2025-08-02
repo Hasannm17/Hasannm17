@@ -1,4 +1,4 @@
-<img width="830" height="413" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108775767/263509480-9ab8a9a6-4ca8-4fe4-9f35-24816e5096a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250802T091643Z&X-Amz-Expires=300&X-Amz-Signature=d5289cd011d0620850e38421518a87e13f7b7fd6b3178b86e92ff96f60689592&X-Amz-SignedHeaders=host" />
+<img  height="413" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108775767/263509480-9ab8a9a6-4ca8-4fe4-9f35-24816e5096a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250802T091643Z&X-Amz-Expires=300&X-Amz-Signature=d5289cd011d0620850e38421518a87e13f7b7fd6b3178b86e92ff96f60689592&X-Amz-SignedHeaders=host" />
 
 <h1 align = "center"> Hi there 👋 </h1>
 
