@@ -1,48 +1,102 @@
-<img  height="413" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108775767/263509480-9ab8a9a6-4ca8-4fe4-9f35-24816e5096a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250802T091643Z&X-Amz-Expires=300&X-Amz-Signature=d5289cd011d0620850e38421518a87e13f7b7fd6b3178b86e92ff96f60689592&X-Amz-SignedHeaders=host" />
-
-<h1 align = "center"> Hi there 👋 </h1>
-
-- 🌱 Software engineer.
-- 📫 How to reach me: Follow me on Linkedin.
-
-
-<h3> Connect with me: </h3>
-<p float="left">
-  <a href = "https://www.linkedin.com/in/hasannaim17"> <img width = "50" height = "50" src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif"</a>  
+<!-- Hero / Banner -->
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/108775767/263509480-9ab8a9a6-4ca8-4fe4-9f35-24816e5096a5.gif" width="70%" />
 </p>
 
-<h3> Languages & Tools: </h3>
+<h1 align="center">Hi, I'm Hasan Naim 👋</h1>
 
-<p float = "left>
-       <img width = "40" height = "40" src ="https://cdn-icons-png.flaticon.com/512/732/732212.png">&nbsp;&nbsp;
-  <img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">&nbsp;&nbsp;
-  <img width = "40" height = "40" src ="https://cdn-icons-png.flaticon.com/512/732/732212.png">&nbsp;&nbsp;
-  <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">&nbsp;&nbsp;
-   <img width = "40" height = "40" src ="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg">&nbsp;&nbsp;
-   <img width = "70" height = "40" src ="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png">&nbsp;&nbsp;
-   <img width = "70" height = "40" src ="https://miro.medium.com/v2/resize:fit:1200/1*ae9DTcoctPSoGetxuOponw.png">&nbsp;&nbsp;
-  
- <img width = "40" height = "40" src ="https://images.seeklogo.com/logo-png/45/2/expo-go-app-logo-png_seeklogo-457073.png">&nbsp;&nbsp;
- <img width = "40" height = "40" src ="https://titrias.com/files/2022/04/typescript.png">&nbsp;&nbsp;
-   <img width = "40" height = "40" src ="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png">&nbsp;&nbsp;
- <img width = "41" height = "43" src ="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png">&nbsp;&nbsp;
- <img width = "50" height = "40" src ="https://www.svgrepo.com/show/374088/solidity.svg">&nbsp;&nbsp;
- <img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/langfr-220px-Ethereum-icon-purple.svg.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">&nbsp;&nbsp;
-  <img width = "60" height = "40" src ="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png">&nbsp;&nbsp;
-  <img width = "40" height = "40" src ="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png">&nbsp;&nbsp;
-  <img width = "40" height = "40" src ="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png">&nbsp;&nbsp;
-<img width = "60" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg">&nbsp;&nbsp;
-<img width = "80" height = "40" src ="https://karanpratapsingh.com/static/blogs/introduction-to-zustand.png">&nbsp;&nbsp;
-<img width = "40" height = "40" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVfT8q16BHaFWDxw9lRO0DREwOjF4_8HZ6idqnSd6yGg&s">&nbsp;&nbsp;
-<img width = "50" height = "40" src ="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png">&nbsp;&nbsp;
-
-
-
+<p align="center">
+  🚀 Software Engineer • Full-Stack & Mobile • Blockchain Curious  
 </p>
- 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasannaim17">
+    <img src="https://img.shields.io/badge/LinkedIn-Hasan%20Naim-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Engineer focused on **scalable web & mobile applications**
+- 📱 Building **React / React Native / Expo** apps
+- ⚙️ Backend with **Node.js, Bun, Express, GraphQL**
+- ☁️ Cloud & DevOps with **AWS, Docker**
+- 🔗 Exploring **Blockchain & Web3 (Solidity, Ethereum)**
+- 🎯 I love turning ideas into **real, production-ready systems**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
+  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40"/>
+  <img src="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png" height="40"/>
+  <img src="https://titrias.com/files/2022/04/typescript.png" height="40"/>
+</p>
+
+### Mobile
+<p>
+  <img src="https://images.seeklogo.com/logo-png/45/2/expo-go-app-logo-png_seeklogo-457073.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="40"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" height="40"/>
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png" height="40"/>
+</p>
+
+### State Management & Realtime
+<p>
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg" height="40"/>
+  <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="40"/>
+  <img src="https://karanpratapsingh.com/static/blogs/introduction-to-zustand.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40"/>
+</p>
+
+### Blockchain
+<p>
+  <img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" height="40"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasannaim17&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannaim17&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/hasannaim17">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build things that scale, solve real problems, and look good doing it.”</i>
+</p>
+
