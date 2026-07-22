@@ -1,98 +1,132 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hasan+Naim+%F0%9F%91%8B;Web+%26+Mobile+App+Developer;Web3+%26+Blockchain+Enthusiast;Building+scalable+products+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/108775767/263509480-9ab8a9a6-4ca8-4fe4-9f35-24816e5096a5.gif" width="70%" />
+  <a href="https://hasannaim.dev"><img src="https://img.shields.io/badge/Portfolio-hasannaim.dev-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hasannaim17"><img src="https://img.shields.io/badge/LinkedIn-hasannaim17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/hasannm17"><img src="https://img.shields.io/badge/X-@hasannm17-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hasannaim.dev/"><img src="https://img.shields.io/badge/Instagram-hasannaim.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h1 align="center">
-  👋 Hi, I'm <b>Hasan Naim</b>
-</h1>
+---
+
+### 🌟 About Me
+
+I'm a **Software Engineer** based in Lebanon, building scalable **web, mobile, and backend** systems — with a strong curiosity for **blockchain** and **Web3** technologies.
+
+- 🔭 Currently focused on full-stack development
+- 📱 Building mobile-first apps with **React Native & Expo**
+- ⚙️ Backend systems with **Node.js**, **Bun**, and **GraphQL**
+- ☁️ Comfortable with **Docker**, **AWS**, and cloud infrastructure
+- 🔗 Exploring **Solidity** and Ethereum-based dApps
+- 📫 Reach me at **hasannaim.dev**
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasannaim17">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <b>Frontend</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Mobile</b><br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Backend & Database</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>State Management & Real-time</b><br/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Blockchain / Web3</b><br/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>DevOps & Cloud</b><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+---
+
+### ⭐ GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasannm17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasannm17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasannm17&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasannm17&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Hasannm17/delivery-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasannm17&repo=delivery-app&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Hasannm17/Mern-Stack-Real-Estate-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasannm17&repo=Mern-Stack-Real-Estate-App&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Hasannm17/Social-Media-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasannm17&repo=Social-Media-App&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Hasannm17/React-Native-E-Commerce-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasannm17&repo=React-Native-E-Commerce-App&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
-
-I’m a passionate **Software Engineer** building scalable **web, mobile, and backend** systems — with curiosity for **blockchain** and **Web3** technologies.
-
-- 🧠 Currently focused on full-stack development
-- 📱 Mobile-first with React Native & Expo
-- ⚙️ Backend with Node.js, Bun, GraphQL
-- ☁️ Cloud + Docker + AWS
-- 🔗 Blockchain (Solidity / Ethereum)
-
----
-
-## 🛠️ Tech Stack
-
-### 🧩 Frontend
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
-  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40"/>
-  <img src="https://ellipsiseducation.com/wp-content/uploads/2023/03/javascript.png" height="40"/>
-  <img src="https://titrias.com/files/2022/04/typescript.png" height="40"/>
-</p>
-
-### 📱 Mobile
-<p>
-  <img src="https://images.seeklogo.com/logo-png/45/2/expo-go-app-logo-png_seeklogo-457073.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" height="40"/>
-</p>
-
-### 🛠️ Backend & Database
-<p>
-  <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" height="40"/>
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png" height="40"/>
-</p>
-
-### 🔄 State Management & Real-time
-<p>
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-vector.svg" height="40"/>
-  <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="40"/>
-  <img src="https://karanpratapsingh.com/static/blogs/introduction-to-zustand.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" height="40"/>
-</p>
-
-### 🛡️ Blockchain / Web3
-<p>
-  <img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" height="40"/>
-</p>
-
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="40"/>
-</p>
-
----
-
-## ⭐ GitHub Stats
+### 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasannaim17&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannaim17&layout=compact&theme=tokyonight" height="170" />
+  <a href="https://www.linkedin.com/in/hasannaim17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/hasannm17"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hasannaim.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://hasannaim.dev"><img src="https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
-
----
-
-## 📫 Find Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasannaim17">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <i>"Build systems that scale, solve real-world problems, and make users smile." 🧠</i>
 </p>
 
----
-
-🧠 **“Build systems that scale, solve real-world problems, and make users smile.”**
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hasannm17&style=for-the-badge&color=38BDF8" />
+</p>
