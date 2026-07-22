@@ -93,6 +93,7 @@ I'm a **Software Engineer** based in Lebanon, building scalable **web, mobile, a
 
 ---
 
+<!--
 ### 📌 Featured Projects
 
 <p align="center">
@@ -111,6 +112,7 @@ I'm a **Software Engineer** based in Lebanon, building scalable **web, mobile, a
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Hasannm17&repo=React-Native-E-Commerce-App&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+-->
 
 ---
 
