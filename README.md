@@ -79,8 +79,8 @@ I'm a **Software Engineer** based in Lebanon, building scalable **web, mobile, a
 ### ⭐ GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasannm17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasannm17&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Hasannm17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hasannm17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -97,18 +97,18 @@ I'm a **Software Engineer** based in Lebanon, building scalable **web, mobile, a
 
 <p align="center">
   <a href="https://github.com/Hasannm17/delivery-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasannm17&repo=delivery-app&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Hasannm17&repo=delivery-app&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Hasannm17/Mern-Stack-Real-Estate-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasannm17&repo=Mern-Stack-Real-Estate-App&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Hasannm17&repo=Mern-Stack-Real-Estate-App&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Hasannm17/Social-Media-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasannm17&repo=Social-Media-App&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Hasannm17&repo=Social-Media-App&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Hasannm17/React-Native-E-Commerce-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasannm17&repo=React-Native-E-Commerce-App&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Hasannm17&repo=React-Native-E-Commerce-App&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
