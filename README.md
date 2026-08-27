@@ -1,83 +1,98 @@
-<div align="center">
-
-<img src="https://hasannaim.dev/new-me.jpeg" width="140" height="140" alt="Hasan Naim" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=26&pause=1000&color=9BAC91&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Hasan+Naim;Senior+Mobile+%26+Full-Stack+Engineer;AI+enthusiast+%26+creative+builder" alt="Typing headline" />
-
-**I build digital experiences that don’t just look good — they hit different.**  
-Clean code, slick design, and a whole lot of attitude.
-
-<p>
-  <a href="https://hasannaim.dev"><img src="https://img.shields.io/badge/Portfolio-hasannaim.dev-374a2c?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hasannaim17"><img src="https://img.shields.io/badge/LinkedIn-hasannaim17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/hasannaim.dev/"><img src="https://img.shields.io/badge/Instagram-hasannaim.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:me@hasannaim.dev"><img src="https://img.shields.io/badge/Email-me@hasannaim.dev-697f61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <img src="./public/readme/banner.svg" alt="Hasan Naim — Software Engineer" width="100%" />
 </p>
-
-</div>
-
----
-
-### About me
-
-Senior mobile and full-stack software engineer, AI enthusiast, and creative builder based in **Lebanon**. I ship scalable, intelligent products — AI-powered systems, blockchain integrations, and modern web & mobile apps — with clean, high-performance experiences that help brands and startups stand out.
-
-- 🔭 Building web, mobile, and backend products at **Finova Fintech**
-- 📱 Mobile-first with **React Native** and **Expo**
-- 🤖 Exploring **AI / LLMs** and tools that feel smarter and more human
-- 🔗 Blockchain with **Solidity**, **Ethers.js**, and **Web3.js**
-- 🌍 Based in Tyre, Lebanon — open to new ideas and collaborations
-- 📫 [hasannaim.dev](https://hasannaim.dev) · [me@hasannaim.dev](mailto:me@hasannaim.dev)
-
----
-
-### What I do
-
-**Full-stack development** · **Mobile app engineering** · **AI & LLM integration** · **Blockchain** · **UI/UX** · **Team leadership**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,bun,tailwind,postgres,mongodb,firebase,supabase,aws,docker,kubernetes,py,solidity,threejs,figma&perline=9" alt="Tech stack" />
+  <a href="https://hasannaim.dev">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://hasannaim.dev/#book">Book a call</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/hasannaim17">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/hasannaim.dev/">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:me@hasannaim.dev">Email</a>
 </p>
 
-React · Next.js · React Native · Expo · Node.js · Bun · TailwindCSS · GSAP · Figma · Drizzle · PostgreSQL · MongoDB · Firebase · Supabase · AWS · Docker · Kubernetes · LangChain · OpenAI · Python · Solidity
+<br />
 
----
+<p align="center">
+  <img src="./public/readme/heading-about.svg" alt="About me" width="420" />
+</p>
 
-### Selected work
+Senior mobile and full-stack software engineer, AI enthusiast, and creative builder based in **Lebanon**. I specialize in scalable, intelligent products — from AI-powered systems and blockchain integrations to modern web and mobile applications.
 
-| Project | What it is |
-| --- | --- |
-| [Rentos](https://rentos.org/) | On-demand car rental — React Native, Expo, TypeScript |
-| [LUMIN](https://www.lumin-jewels.com/) | Jewelry e-commerce — React, Node, Express, TypeScript |
-| [Baladeyati Plus](https://baladeyatiplus.com/) | Municipal services app — Expo, NativeWind, Reanimated |
-| [Pordava](https://pordava.com/) | E-commerce — React, Bun, Express, TypeScript |
-| [Younique](https://younique-lb.com/) | E-commerce — React, Bun, Express, Neon |
-| [Royal Flowers](https://royalflowers1.de) | E-commerce — React, Express, MongoDB, AWS S3 |
-| [Rhea](https://rhea-official.com/) | E-commerce — React, Bun, Express, Neon |
+I focus on crafting clean, intuitive, high-performance experiences that help brands and startups stand out in the digital world.
 
-More on **[hasannaim.dev](https://hasannaim.dev)**.
+**Full-stack** &nbsp;·&nbsp; **Mobile** &nbsp;·&nbsp; **AI & LLMs** &nbsp;·&nbsp; **Blockchain** &nbsp;·&nbsp; **UI/UX** &nbsp;·&nbsp; **Leadership**
 
----
+<br />
 
-### GitHub
+<p align="center">
+  <img src="./public/readme/heading-work.svg" alt="Projects" width="420" />
+</p>
 
-<div align="center">
+**01 — [Rentos](https://rentos.org/)**  
+On-demand car rental · React Native, Expo, TypeScript · 2023
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasannm17&show_icons=true&count_private=true&hide_border=true&bg_color=0E0E0C&title_color=9BAC91&text_color=FDFDFC&icon_color=697F61" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=0E0E0C&title_color=9BAC91&text_color=FDFDFC" alt="Top languages" />
+**02 — [LUMIN](https://www.lumin-jewels.com/)**  
+Jewelry e-commerce · React, Node, Express, TypeScript · 2024
 
-<img src="https://streak-stats.demolab.com/?user=Hasannm17&hide_border=true&background=0E0E0C&ring=697F61&fire=9BAC91&currStreakLabel=9BAC91&sideLabels=FDFDFC&dates=9BAC91&stroke=374A2C" alt="GitHub streak" />
+**03 — [Baladeyati Plus](https://baladeyatiplus.com/)**  
+Municipal services · Expo, NativeWind, Reanimated · 2025
 
-</div>
+**04 — [Pordava](https://pordava.com/)**  
+E-commerce · React, Bun, Express, TypeScript · 2025
 
----
+**05 — [Younique](https://younique-lb.com/)**  
+E-commerce · React, Bun, Express, Neon · 2025
 
-<div align="center">
+**06 — [Royal Flowers](https://royalflowers1.de)**  
+E-commerce · React, Express, MongoDB, AWS S3 · 2024
 
-Have an awesome idea? Let’s bring it to life.
+**07 — [Rhea](https://rhea-official.com/)**  
+E-commerce · React, Bun, Express, Neon · 2025
 
-**[Book a call](https://hasannaim.dev/#book)** · **[hasannaim.dev](https://hasannaim.dev)** · **[me@hasannaim.dev](mailto:me@hasannaim.dev)**
+<p align="center"><a href="https://hasannaim.dev/#works">See all work →</a></p>
 
-<img src="https://komarev.com/ghpvc/?username=Hasannm17&style=for-the-badge&color=374a2c" alt="Profile views" />
+<br />
 
-</div>
+<p align="center">
+  <img src="./public/readme/heading-stack.svg" alt="Tool box" width="420" />
+</p>
+
+<p align="center">
+  React · Next.js · React Native · Expo<br />
+  Node.js · Bun · TypeScript · Tailwind<br />
+  PostgreSQL · MongoDB · Firebase · Supabase · Neon<br />
+  AWS · Docker · Kubernetes · GSAP · Figma<br />
+  LangChain · OpenAI · Python · Solidity
+</p>
+
+<br />
+
+<p align="center">
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=Hasannm17&show_icons=true&count_private=true&hide_border=true&bg_color=0E0E0C&title_color=D1D1C7&text_color=FAFAF9&icon_color=8C8C73&hide_rank=true" alt="GitHub stats" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=0E0E0C&title_color=D1D1C7&text_color=FAFAF9" alt="Top languages" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./public/readme/heading-connect.svg" alt="Contact" width="420" />
+</p>
+
+<p align="center">
+  Have an awesome idea? Let’s bring it to life.<br /><br />
+  <a href="https://hasannaim.dev/#book"><strong>Book a call</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:me@hasannaim.dev">me@hasannaim.dev</a>
+  &nbsp;·&nbsp;
+  <a href="https://hasannaim.dev">hasannaim.dev</a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./public/readme/footer.svg" alt="Crafted with passion and precision — Hasan Naim" width="100%" />
+</p>
