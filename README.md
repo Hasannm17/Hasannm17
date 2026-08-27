@@ -72,8 +72,8 @@ E-commerce · React, Bun, Express, Neon · 2025
 <br />
 
 <p align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=Hasannm17&show_icons=true&count_private=true&hide_border=true&bg_color=0E0E0C&title_color=D1D1C7&text_color=FAFAF9&icon_color=8C8C73&hide_rank=true" alt="GitHub stats" />
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=0E0E0C&title_color=D1D1C7&text_color=FAFAF9" alt="Top languages" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=Hasannm17&show_icons=true&count_private=true&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc&icon_color=697f61&hide_rank=true" alt="GitHub stats" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc" alt="Top languages" />
 </p>
 
 <br />
