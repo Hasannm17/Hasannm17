@@ -3,29 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://hasannaim.dev">
-    <img src="https://hasannaim.dev/readme/icons/web.png" alt="" width="18" height="18" />&nbsp;Portfolio
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://hasannaim.dev/#book">
-    <img src="https://hasannaim.dev/readme/icons/calendar.png" alt="" width="18" height="18" />&nbsp;Book a call
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hasannaim17">
-    <img src="https://hasannaim.dev/readme/icons/linkedin.png" alt="" width="18" height="18" />&nbsp;LinkedIn
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hasannaim.dev/">
-    <img src="https://hasannaim.dev/readme/icons/instagram.png" alt="" width="18" height="18" />&nbsp;Instagram
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Hasannm17">
-    <img src="https://hasannaim.dev/readme/icons/github.png" alt="" width="18" height="18" />&nbsp;GitHub
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:me@hasannaim.dev">
-    <img src="https://hasannaim.dev/readme/icons/email.png" alt="" width="18" height="18" />&nbsp;Email
-  </a>
+  <a href="https://hasannaim.dev"><img src="https://hasannaim.dev/readme/buttons/icon-web.png" alt="Portfolio" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://hasannaim.dev/#book"><img src="https://hasannaim.dev/readme/buttons/icon-calendar.png" alt="Book a call" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hasannaim17"><img src="https://hasannaim.dev/readme/buttons/icon-linkedin.png" alt="LinkedIn" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/hasannaim.dev/"><img src="https://hasannaim.dev/readme/buttons/icon-instagram.png" alt="Instagram" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Hasannm17"><img src="https://hasannaim.dev/readme/buttons/icon-github.png" alt="GitHub" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:me@hasannaim.dev"><img src="https://hasannaim.dev/readme/buttons/icon-email.png" alt="Email" width="40" height="40" /></a>
 </p>
 
 <br />
@@ -48,9 +36,7 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
 
 <p align="center">
   Selected products and experiences across mobile, web, and full stack.<br /><br />
-  <a href="https://hasannaim.dev/#works">
-    <img src="https://hasannaim.dev/readme/icons/arrow.png" alt="" width="18" height="18" />&nbsp;<strong>View work on hasannaim.dev</strong>
-  </a>
+  <a href="https://hasannaim.dev/#works"><img src="https://hasannaim.dev/readme/buttons/work.png" alt="View work on hasannaim.dev" height="48" /></a>
 </p>
 
 <br />
@@ -78,17 +64,11 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
 
 <p align="center">
   Have an awesome idea? Let’s bring it to life.<br /><br />
-  <a href="https://hasannaim.dev/#book">
-    <img src="https://hasannaim.dev/readme/icons/calendar.png" alt="" width="18" height="18" />&nbsp;<strong>Book a call</strong>
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:me@hasannaim.dev">
-    <img src="https://hasannaim.dev/readme/icons/email.png" alt="" width="18" height="18" />&nbsp;me@hasannaim.dev
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://hasannaim.dev">
-    <img src="https://hasannaim.dev/readme/icons/web.png" alt="" width="18" height="18" />&nbsp;hasannaim.dev
-  </a>
+  <a href="https://hasannaim.dev/#book"><img src="https://hasannaim.dev/readme/buttons/book.png" alt="Book a call" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:me@hasannaim.dev"><img src="https://hasannaim.dev/readme/buttons/email.png" alt="Email me" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://hasannaim.dev"><img src="https://hasannaim.dev/readme/buttons/web.png" alt="hasannaim.dev" height="48" /></a>
 </p>
 
 <br />
