@@ -3,15 +3,29 @@
 </p>
 
 <p align="center">
-  <a href="https://hasannaim.dev">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://hasannaim.dev/#book">Book a call</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/hasannaim17">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/hasannaim.dev/">Instagram</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:me@hasannaim.dev">Email</a>
+  <a href="https://hasannaim.dev">
+    <img src="https://api.iconify.design/mdi/web.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;Portfolio
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://hasannaim.dev/#book">
+    <img src="https://api.iconify.design/mdi/calendar-clock.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;Book a call
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hasannaim17">
+    <img src="https://api.iconify.design/mdi/linkedin.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;LinkedIn
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hasannaim.dev/">
+    <img src="https://api.iconify.design/mdi/instagram.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;Instagram
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Hasannm17">
+    <img src="https://api.iconify.design/mdi/github.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;GitHub
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:me@hasannaim.dev">
+    <img src="https://api.iconify.design/mdi/email-outline.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;Email
+  </a>
 </p>
 
 <br />
@@ -32,28 +46,12 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
   <img src="https://hasannaim.dev/readme/heading-work.png" alt="Projects" width="420" />
 </p>
 
-**01 — [Rentos](https://rentos.org/)**  
-On-demand car rental · React Native, Expo, TypeScript · 2023
-
-**02 — [LUMIN](https://www.lumin-jewels.com/)**  
-Jewelry e-commerce · React, Node, Express, TypeScript · 2024
-
-**03 — [Baladeyati Plus](https://baladeyatiplus.com/)**  
-Municipal services · Expo, NativeWind, Reanimated · 2025
-
-**04 — [Pordava](https://pordava.com/)**  
-E-commerce · React, Bun, Express, TypeScript · 2025
-
-**05 — [Younique](https://younique-lb.com/)**  
-E-commerce · React, Bun, Express, Neon · 2025
-
-**06 — [Royal Flowers](https://royalflowers1.de)**  
-E-commerce · React, Express, MongoDB, AWS S3 · 2024
-
-**07 — [Rhea](https://rhea-official.com/)**  
-E-commerce · React, Bun, Express, Neon · 2025
-
-<p align="center"><a href="https://hasannaim.dev/#works">See all work →</a></p>
+<p align="center">
+  Selected products and experiences across mobile, web, and full stack.<br /><br />
+  <a href="https://hasannaim.dev/#works">
+    <img src="https://api.iconify.design/mdi/arrow-right-bold-circle.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;<strong>View work on hasannaim.dev</strong>
+  </a>
+</p>
 
 <br />
 
@@ -62,18 +60,18 @@ E-commerce · React, Bun, Express, Neon · 2025
 </p>
 
 <p align="center">
-  React · Next.js · React Native · Expo<br />
-  Node.js · Bun · TypeScript · Tailwind<br />
-  PostgreSQL · MongoDB · Firebase · Supabase · Neon<br />
-  AWS · Docker · Kubernetes · GSAP · Figma<br />
-  LangChain · OpenAI · Python · Solidity
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,bun,tailwind,postgres,mongodb,firebase,supabase,aws,docker,kubernetes,py,solidity,figma,vercel&perline=9" alt="Tools I use: React, Next.js, TypeScript, JavaScript, Node.js, Bun, Tailwind, PostgreSQL, MongoDB, Firebase, Supabase, AWS, Docker, Kubernetes, Python, Solidity, Figma, Vercel" />
+</p>
+
+<p align="center">
+  React Native · Expo · GSAP · Drizzle · LangChain · OpenAI
 </p>
 
 <br />
 
 <p align="center">
   <img height="158" src="https://github-readme-stats.shion.dev/api?username=Hasannm17&show_icons=true&count_private=true&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc&icon_color=697f61&hide_rank=true" alt="GitHub stats" />
-  <img height="158" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc" alt="Top languages" />
+  <img height="158" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc" alt="Most used languages on GitHub" />
 </p>
 
 <br />
@@ -84,11 +82,17 @@ E-commerce · React, Bun, Express, Neon · 2025
 
 <p align="center">
   Have an awesome idea? Let’s bring it to life.<br /><br />
-  <a href="https://hasannaim.dev/#book"><strong>Book a call</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:me@hasannaim.dev">me@hasannaim.dev</a>
-  &nbsp;·&nbsp;
-  <a href="https://hasannaim.dev">hasannaim.dev</a>
+  <a href="https://hasannaim.dev/#book">
+    <img src="https://api.iconify.design/mdi/calendar-clock.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;<strong>Book a call</strong>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:me@hasannaim.dev">
+    <img src="https://api.iconify.design/mdi/email-outline.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;me@hasannaim.dev
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://hasannaim.dev">
+    <img src="https://api.iconify.design/mdi/web.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;hasannaim.dev
+  </a>
 </p>
 
 <br />
