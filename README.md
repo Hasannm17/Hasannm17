@@ -4,27 +4,27 @@
 
 <p align="center">
   <a href="https://hasannaim.dev">
-    <img src="https://api.iconify.design/mdi/web.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;Portfolio
+    <img src="https://hasannaim.dev/readme/icons/web.png" alt="" width="18" height="18" />&nbsp;Portfolio
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://hasannaim.dev/#book">
-    <img src="https://api.iconify.design/mdi/calendar-clock.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;Book a call
+    <img src="https://hasannaim.dev/readme/icons/calendar.png" alt="" width="18" height="18" />&nbsp;Book a call
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hasannaim17">
-    <img src="https://api.iconify.design/mdi/linkedin.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;LinkedIn
+    <img src="https://hasannaim.dev/readme/icons/linkedin.png" alt="" width="18" height="18" />&nbsp;LinkedIn
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.instagram.com/hasannaim.dev/">
-    <img src="https://api.iconify.design/mdi/instagram.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;Instagram
+    <img src="https://hasannaim.dev/readme/icons/instagram.png" alt="" width="18" height="18" />&nbsp;Instagram
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/Hasannm17">
-    <img src="https://api.iconify.design/mdi/github.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;GitHub
+    <img src="https://hasannaim.dev/readme/icons/github.png" alt="" width="18" height="18" />&nbsp;GitHub
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:me@hasannaim.dev">
-    <img src="https://api.iconify.design/mdi/email-outline.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;Email
+    <img src="https://hasannaim.dev/readme/icons/email.png" alt="" width="18" height="18" />&nbsp;Email
   </a>
 </p>
 
@@ -49,7 +49,7 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
 <p align="center">
   Selected products and experiences across mobile, web, and full stack.<br /><br />
   <a href="https://hasannaim.dev/#works">
-    <img src="https://api.iconify.design/mdi/arrow-right-bold-circle.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;<strong>View work on hasannaim.dev</strong>
+    <img src="https://hasannaim.dev/readme/icons/arrow.png" alt="" width="18" height="18" />&nbsp;<strong>View work on hasannaim.dev</strong>
   </a>
 </p>
 
@@ -60,11 +60,7 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,bun,tailwind,postgres,mongodb,firebase,supabase,aws,docker,kubernetes,py,solidity,figma,vercel&perline=9" alt="Tools I use: React, Next.js, TypeScript, JavaScript, Node.js, Bun, Tailwind, PostgreSQL, MongoDB, Firebase, Supabase, AWS, Docker, Kubernetes, Python, Solidity, Figma, Vercel" />
-</p>
-
-<p align="center">
-  React Native · Expo · GSAP · Drizzle · LangChain · OpenAI
+  <img src="https://hasannaim.dev/readme/toolbox.png" alt="Tools I use: React, Next.js, TypeScript, JavaScript, Node.js, Bun, Tailwind, PostgreSQL, MongoDB, Firebase, Supabase, AWS, Docker, Kubernetes, Python, Solidity, Figma, Vercel, Expo, Drizzle, GSAP, LangChain, OpenAI" width="100%" />
 </p>
 
 <br />
@@ -83,15 +79,15 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
 <p align="center">
   Have an awesome idea? Let’s bring it to life.<br /><br />
   <a href="https://hasannaim.dev/#book">
-    <img src="https://api.iconify.design/mdi/calendar-clock.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;<strong>Book a call</strong>
+    <img src="https://hasannaim.dev/readme/icons/calendar.png" alt="" width="18" height="18" />&nbsp;<strong>Book a call</strong>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:me@hasannaim.dev">
-    <img src="https://api.iconify.design/mdi/email-outline.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;me@hasannaim.dev
+    <img src="https://hasannaim.dev/readme/icons/email.png" alt="" width="18" height="18" />&nbsp;me@hasannaim.dev
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://hasannaim.dev">
-    <img src="https://api.iconify.design/mdi/web.png?color=%239bac91&height=32" alt="" width="18" height="18" />&nbsp;hasannaim.dev
+    <img src="https://hasannaim.dev/readme/icons/web.png" alt="" width="18" height="18" />&nbsp;hasannaim.dev
   </a>
 </p>
 
