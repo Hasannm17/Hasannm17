@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://hasannaim.dev/readme/intro.gif" alt="Hasan Naim — Software Engineer" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://hasannaim.dev/readme/banner.png" alt="Hasan Naim — Software Engineer" width="100%" />
