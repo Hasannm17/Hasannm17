@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://hasannaim.dev/readme/banner.png" alt="Hasan Naim — Software Engineer" width="100%" />
 </p>
@@ -56,6 +55,19 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
 <p align="center">
   <img height="158" src="https://github-readme-stats.shion.dev/api?username=Hasannm17&show_icons=true&count_private=true&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc&icon_color=697f61&hide_rank=true" alt="GitHub stats" />
   <img height="158" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc" alt="Most used languages on GitHub" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://hasannaim.dev/readme/heading-hire.png" alt="Hire me" width="420" />
+</p>
+
+<p align="center">
+  Hat on. Briefcase packed. Ready to handle your work.<br /><br />
+  <img src="https://hasannaim.dev/readme/penguin.gif" alt="A penguin intern ready for work" width="360" />
+  <br /><br />
+  <a href="https://hasannaim.dev/#book"><img src="https://hasannaim.dev/readme/buttons/book.png" alt="Book a call" height="48" /></a>
 </p>
 
 <br />
