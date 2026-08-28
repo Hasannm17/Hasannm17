@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/readme/banner.png" alt="Hasan Naim — Software Engineer" width="100%" />
+  <img src="https://hasannaim.dev/readme/banner.png" alt="Hasan Naim — Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <img src="./public/readme/heading-about.png" alt="About me" width="420" />
+  <img src="https://hasannaim.dev/readme/heading-about.png" alt="About me" width="420" />
 </p>
 
 Senior mobile and full-stack software engineer, AI enthusiast, and creative builder based in **Lebanon**. I specialize in scalable, intelligent products — from AI-powered systems and blockchain integrations to modern web and mobile applications.
@@ -29,7 +29,7 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
 <br />
 
 <p align="center">
-  <img src="./public/readme/heading-work.png" alt="Projects" width="420" />
+  <img src="https://hasannaim.dev/readme/heading-work.png" alt="Projects" width="420" />
 </p>
 
 **01 — [Rentos](https://rentos.org/)**  
@@ -58,7 +58,7 @@ E-commerce · React, Bun, Express, Neon · 2025
 <br />
 
 <p align="center">
-  <img src="./public/readme/heading-stack.png" alt="Tool box" width="420" />
+  <img src="https://hasannaim.dev/readme/heading-stack.png" alt="Tool box" width="420" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ E-commerce · React, Bun, Express, Neon · 2025
 <br />
 
 <p align="center">
-  <img src="./public/readme/heading-connect.png" alt="Contact" width="420" />
+  <img src="https://hasannaim.dev/readme/heading-connect.png" alt="Contact" width="420" />
 </p>
 
 <p align="center">
@@ -94,5 +94,5 @@ E-commerce · React, Bun, Express, Neon · 2025
 <br />
 
 <p align="center">
-  <img src="./public/readme/footer.png" alt="Crafted with passion and precision — Hasan Naim" width="100%" />
+  <img src="https://hasannaim.dev/readme/footer.png" alt="Crafted with passion and precision — Hasan Naim" width="100%" />
 </p>
