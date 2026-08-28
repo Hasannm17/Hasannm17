@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/readme/banner.svg" alt="Hasan Naim — Software Engineer" width="100%" />
+  <img src="./public/readme/banner.png" alt="Hasan Naim — Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <img src="./public/readme/heading-about.svg" alt="About me" width="420" />
+  <img src="./public/readme/heading-about.png" alt="About me" width="420" />
 </p>
 
 Senior mobile and full-stack software engineer, AI enthusiast, and creative builder based in **Lebanon**. I specialize in scalable, intelligent products — from AI-powered systems and blockchain integrations to modern web and mobile applications.
@@ -29,7 +29,7 @@ I focus on crafting clean, intuitive, high-performance experiences that help bra
 <br />
 
 <p align="center">
-  <img src="./public/readme/heading-work.svg" alt="Projects" width="420" />
+  <img src="./public/readme/heading-work.png" alt="Projects" width="420" />
 </p>
 
 **01 — [Rentos](https://rentos.org/)**  
@@ -58,7 +58,7 @@ E-commerce · React, Bun, Express, Neon · 2025
 <br />
 
 <p align="center">
-  <img src="./public/readme/heading-stack.svg" alt="Tool box" width="420" />
+  <img src="./public/readme/heading-stack.png" alt="Tool box" width="420" />
 </p>
 
 <p align="center">
@@ -72,14 +72,14 @@ E-commerce · React, Bun, Express, Neon · 2025
 <br />
 
 <p align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=Hasannm17&show_icons=true&count_private=true&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc&icon_color=697f61&hide_rank=true" alt="GitHub stats" />
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc" alt="Top languages" />
+  <img height="158" src="https://github-readme-stats.shion.dev/api?username=Hasannm17&show_icons=true&count_private=true&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc&icon_color=697f61&hide_rank=true" alt="GitHub stats" />
+  <img height="158" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hasannm17&layout=compact&hide_border=true&bg_color=172012&title_color=9bac91&text_color=fdfdfc" alt="Top languages" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="./public/readme/heading-connect.svg" alt="Contact" width="420" />
+  <img src="./public/readme/heading-connect.png" alt="Contact" width="420" />
 </p>
 
 <p align="center">
@@ -94,5 +94,5 @@ E-commerce · React, Bun, Express, Neon · 2025
 <br />
 
 <p align="center">
-  <img src="./public/readme/footer.svg" alt="Crafted with passion and precision — Hasan Naim" width="100%" />
+  <img src="./public/readme/footer.png" alt="Crafted with passion and precision — Hasan Naim" width="100%" />
 </p>
