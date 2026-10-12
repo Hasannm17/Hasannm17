@@ -25,41 +25,7 @@
 <table>
   <tr>
     <td valign="top">
-<pre>
-                  tm#M#QUQ@MI
-              W@@@M@WMMWM8W@@#do
-            #@@BW@@@@BBWMWQM@@@@@0?
-          0@@WW#Q###WM@@@@@@M@@@@@@@&amp;r
-        U@@@MW##@@@@@@@@M@@B@@@@@MM@@@@?
-       l@@@MM@@@#Zj?]r^(*_~_!+jwOWM@@@@@U
-       @@WB@WUl_,`   ``r_,,:_!rrcX#B@M@@@C
-      l@MWMCr~.      `.'r*__^!rrlk#@@@@@@@
-      @@@@u!:,'`    ```  `.-',_!(LhW@@@@@Z
-      @@@W+;,-`        `,roUQ###d%YC#@@@@
-      o@@0!~,_(iJIwI+`^d@@@@80&amp;&amp;00&amp;IwM@@@
-       @@d*o#B@WM@@#( `[Wdai[##WW&amp;ZCI0@M#%'
-        @W|UZUmdBmk+* `cI??+|xCC]|(cCkMUX@U
-        k@!(JU%1{l^,~` r{|!~:,,,:*rvCIQmUZd
-        rUl:,'.`` `',  'r|[^.,:~^r?zohWk%%r
-        f(I!:,.``  :c+?f0W#I,':^!rlLodMwow
-        `!cv_,,.`  `o&amp;MUWB#mvr**!|iId8@*
-          -kr:,'..rU#orr?nX0M@WUYId0#W@
-          `*#l_:'Z@@XLvtfvCa%vCWU0BWW@@
-            ?@0o&gt;Z0r~r|CIZm%jrroU#WM@@#
-             C@@O%_'';wQ#ZCc!rfmWB@@@QZ
-              (@@W0I!:'~:r|]aU#@@@@WU%ajc
-                o@@@@#QUQ#WM@@@@@WQUXawa@W
-                 `{UM@@@@@@@@@W#QQOqZhk8M@@
-                 (v_rjZ0#WBW#80OO&amp;$Zam#WWWB@(
-                x@W_:*((|?iwmdUUdZhI&amp;WWMWWWB@@@qr
-               &gt;@@@C_:^r((vt{CCl!;c0WBMBWWWBWWWMBBWZ&gt;
-           :lmWMMM@W+^:_!r|vi?^'!OMWBMMBWWBW#W#W##WWM@M0
-        C0MWWB@@WM@@o+*:~*rr^*m@@@@MBMMBWWW##W####W#####
-   ^}0@@MW##W8W@BWBMm^r_'~^:~@@@@@@MMBMBWW########W#####
-?&amp;@MWWWBWQ#W#QW#@@WM#C!: .' ?@MM@@MBBMW#W#####W##W######
-#MWB#QWWQ#W#0###@B#WWM0^ `` j@@@MWWWW########WW#########
-W#MWQQW##B#0QQ0#B#Q#MM@@m^*W@@@B####8##Q8#88#W##8#W###8B
-</pre>
+      <img src="./ascii-portrait.png" alt="ASCII portrait of Hasan Naim" width="320" />
     </td>
     <td valign="middle">
       <code>~ $ whoami</code>
