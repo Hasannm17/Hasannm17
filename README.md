@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://hasannaim.dev/readme/banner.png" alt="Hasan Naim — Software Engineer" width="100%" />
 </p>
@@ -23,11 +22,44 @@
   <img src="https://hasannaim.dev/readme/heading-about.png" alt="About me" width="420" />
 </p>
 
-Senior mobile and full-stack software engineer, AI enthusiast, and creative builder based in **Lebanon**. I specialize in scalable, intelligent products — from AI-powered systems and blockchain integrations to modern web and mobile applications.
-
-I focus on crafting clean, intuitive, high-performance experiences that help brands and startups stand out in the digital world.
-
-**Full-stack** &nbsp;·&nbsp; **Mobile** &nbsp;·&nbsp; **AI & LLMs** &nbsp;·&nbsp; **Blockchain** &nbsp;·&nbsp; **UI/UX** &nbsp;·&nbsp; **Leadership**
+<table>
+  <tr>
+    <td valign="top">
+<pre>
+                 =+*%%%%%*:
+               +############*=
+             +#################*:
+            +######%%******%#####+
+            ###%*-....-=--=+*#####.
+           +##%-:.  ...:=+***%####.
+           -##+=++**+:*######%%##*
+            *#*%####*.*%**%%%**###+
+             #*****=-.=++====+*%%%*
+             **-::..==+%%=:=+**#%*-
+             :++::.:*%%##%****%#*.
+              .**-+#%***%%%%%###=
+               :%#%*-+%%**+%####-
+                .%##*****%#####%**
+                  -%##########%%##%.
+                  *%=*%%%##%%%%#####*+.
+                :*##+=+++**++%#########%*+:
+           .-+*%####%+==++*%###############%*+:
+        -+%##########+---=#####################%*=
+      +%##############*..*########################%-
+     *#################%%###########################
+    *###############################################
+   -################################################
+</pre>
+    </td>
+    <td valign="middle">
+      <code>~ $ whoami</code>
+      <h3>Hasan Naim</h3>
+      <p>Senior mobile and full-stack software engineer, AI enthusiast, and creative builder based in <b>Lebanon</b>. I specialize in scalable, intelligent products — from AI-powered systems and blockchain integrations to modern web and mobile applications.</p>
+      <p>I focus on crafting clean, intuitive, high-performance experiences that help brands and startups stand out in the digital world.</p>
+      <p><b>Full-stack</b> &nbsp;·&nbsp; <b>Mobile</b> &nbsp;·&nbsp; <b>AI &amp; LLMs</b> &nbsp;·&nbsp; <b>Blockchain</b> &nbsp;·&nbsp; <b>UI/UX</b> &nbsp;·&nbsp; <b>Leadership</b></p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
